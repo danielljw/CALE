@@ -2,18 +2,6 @@
 
 This folder provides guidance for accessing the datasets used in this study. Due to data licensing restrictions, the raw data are not redistributed in this repository. Users should obtain the data directly from the official providers listed below.
 
-## Mobility and Population Data
-
-### SafeGraph Mobility Data
-Mobility data were obtained from aggregated and anonymized location records provided by SafeGraph. Information regarding data access and licensing is available at:
-
-https://www.safegraph.com/
-
-### Census Block Group Population Data
-Census Block Group (CBG)-level population data were obtained from the 2020 American Community Survey (ACS) 5-year estimates and can be accessed at:
-
-https://data.census.gov/
-
 ## Longitudinal Aging Surveys
 
 ### HAALSI
@@ -86,6 +74,18 @@ https://populationsciences.berkeley.edu/creles/
 Scores of indicators within the Sustainable Development Goals can be accessed through the United Nations SDG Data Portal:
 
 https://unstats.un.org/sdgs/dataportal/database
+
+## Mobility and Population Data
+
+### SafeGraph Mobility Data
+Mobility data were obtained from aggregated and anonymized location records provided by SafeGraph. Information regarding data access and licensing is available at:
+
+https://www.safegraph.com/
+
+### Census Block Group Population Data
+Census Block Group (CBG)-level population data were obtained from the 2020 American Community Survey (ACS) 5-year estimates and can be accessed at:
+
+https://data.census.gov/
 
 ## Notes
 
